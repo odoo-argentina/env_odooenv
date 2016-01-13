@@ -10,3 +10,6 @@
 [submodule "sources/account"]
 	path = sources/account
 	url = git@github.com:odoo-argentina/account.git
+[submodule "sources/maintainer-quality-tools"]
+	path = sources/maintainer-quality-tools
+	url = git@github.com:odoo-argentina/maintainer-quality-tools.git

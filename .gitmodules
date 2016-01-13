@@ -1,0 +1,12 @@
+[submodule "sources/odoo"]
+	path = sources/odoo
+	url = https://github.com/odoo/odoo.git
+[submodule "sources/partner"]
+	path = sources/partner
+	url = git@github.com:odoo-argentina/partner.git
+[submodule "sources/config"]
+	path = sources/config
+	url = git@github.com:odoo-argentina/config.git
+[submodule "sources/account"]
+	path = sources/account
+	url = git@github.com:odoo-argentina/account.git
